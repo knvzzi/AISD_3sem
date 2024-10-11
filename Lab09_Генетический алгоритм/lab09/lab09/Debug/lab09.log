@@ -1,0 +1,28 @@
+﻿Сборка начата 18.12.2023 17:26:42.
+Уровень детализации журнала: Normal.     1>Проект "C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\lab09.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab09.cpp
+         lab09.cpp
+     1>C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\Debug\lab09.exe" /INCREMENTAL /ILK:"Debug\lab09.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\Debug\lab09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\Debug\lab09.lib" /MACHINE:X86 Debug\lab09.obj
+         lab09.vcxproj -> C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\Debug\lab09.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab09.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab09.tlog\lab09.lastbuildstate".
+     1>Сборка проекта "C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\ПОИТ\3 sem\AiSD\Lab09_Генетический алгоритм\lab09\lab09\lab09.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.51
